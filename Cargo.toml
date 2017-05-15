@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["jtianling <jtianling@gmail.com>"]
 
 [dependencies]
-regex = ">0.1.0"
+regex = "0.2"
